@@ -1,2 +1,3 @@
-# fcc_js
-Javassript exercises from FreeCodeCamp (https://www.freecodecamp.com)
+# fcc_jsс
+
+Javascript exercises from FreeCodeCamp (https://www.freecodecamp.com)
